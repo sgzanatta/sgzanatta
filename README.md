@@ -2,13 +2,6 @@
 
 Eu sou Sérgio Zanatta, atualmente estou cursando Analise e desenvolvimento de sistemas pela Universidade Estácio. Sou um entusiasta da tecnologia e estou sempre aberto a colaborar. Tenho como objetivo desenvolver minha carreira sob a supervisão e estímulo de uma empresa comprometida com a inovação, buscando aprimorar meus conhecimentos na área de programação, objetivando principalmente adquirir experiência profissional e contribuir para o desenvolvimento da empresa, com bastante dedicação e um bom trabalho em equipe. Sinta-se à vontade para se conectar comigo aqui:
 
-<h1 align="center"> 
-	✅ Welcome to my GitHub 🚀
-</h1>
-
-- 🌱 Estudando Java
-- 📫 Contate-me no email: sgzanatta92@gmail.com
-
 <div> 
   
   <a href="https://instagram.com/sgzanatta_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -16,6 +9,12 @@ Eu sou Sérgio Zanatta, atualmente estou cursando Analise e desenvolvimento de s
   <a href="https://www.linkedin.com/in/sérgio-zanatta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
+<h1 align="center"> 
+	✅ Welcome to my GitHub 🚀
+</h1>
+
+- 🌱 Estudando Java
 
 ### ⚡ Habilidades:
  
