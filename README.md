@@ -1,16 +1,32 @@
-### Hi there 👋
+### Olá! Eu sou o Sérgio Zanatta
 
-<!--
-**sgzanatta/sgzanatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> 
+	✅ Welcome to my GitHub 🚀
+</h1>
 
-Here are some ideas to get you started:
+- 🌱 Estudando Java
+- 📫 Contate-me no email: sgzanatta92@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div> 
+  
+  <a href="https://instagram.com/sgzanatta_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:sgzanatta92@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sérgio-zanatta" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+</div>
+
+### ⚡ Habilidades:
+ 
+![Java](https://img.shields.io/badge/-java-E34A86?style=for-the-badge&logo=java)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=FFFFFF)
+
+
+### 🛠 Ferramentas:
+
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-%230077B5?style=for-the-badge&logo=VisualStudioCode&logoColor=FFFFFF)
+![Eclipse IDE](https://img.shields.io/badge/-Eclipse-%230077B5?style=for-the-badge&logo=Eclipse&logoColor=FFFFFF) 
+
+### 📈 Stats
+
+[![Sérgio Zanatta github stats](https://github-readme-stats.vercel.app/api?username=sgzanatta&show_icons=true&theme=transparent)](https://github.com/gb8may/github-readme-stats)
+
