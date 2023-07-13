@@ -26,7 +26,4 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-%230077B5?style=for-the-badge&logo=VisualStudioCode&logoColor=FFFFFF)
 ![Eclipse IDE](https://img.shields.io/badge/-Eclipse-%230077B5?style=for-the-badge&logo=Eclipse&logoColor=FFFFFF) 
 
-### 📈 Stats
-
-[![Sérgio Zanatta github stats](https://github-readme-stats.vercel.app/api?username=sgzanatta&show_icons=true&theme=transparent)](https://github.com/gb8may/github-readme-stats)
 
