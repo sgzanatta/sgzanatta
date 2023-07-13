@@ -1,4 +1,6 @@
-### Olá! Eu sou o Sérgio Zanatta
+## Bom ver você aqui! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+
+Eu sou Sérgio Zanatta, atualmente estou cursando Analise e desenvolvimento de sistemas pela Universidade Estácio. Sou um entusiasta da tecnologia e estou sempre aberto a colaborar. Tenho como objetivo desenvolver minha carreira sob a supervisão e estímulo de uma empresa comprometida com a inovação, buscando aprimorar meus conhecimentos na área de programação, objetivando principalmente adquirir experiência profissional e contribuir para o desenvolvimento da empresa, com bastante dedicação e um bom trabalho em equipe. Sinta-se à vontade para se conectar comigo aqui:
 
 <h1 align="center"> 
 	✅ Welcome to my GitHub 🚀
